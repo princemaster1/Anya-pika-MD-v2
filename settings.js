@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "𝖤𝗅𝗂𝗇𝖺 🇰🇪" 
+global.botname = "𝖤𝗅e𝗇𝖺-🇰🇪" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "𝐏𝐑𝐈𝐍𝐂𝐄"  
 global.packname = "𝖤𝖫𝖨𝖭𝖠✯𝖡𝖮𝖳"  
