@@ -21,7 +21,7 @@
 </div>
 
 ##  
-### SCAN QR CODE
+# [SCAN QR CODE HERE 👇🏻](https://anyaqr.jetus-hack.repl.co/)
 
 <p align="center">
 <a href="https://anyaqr.jetus-hack.repl.co/"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" />
@@ -31,7 +31,8 @@
 
 ##
 
-### `DEPLOY`
+# `DEPLOY HERE`
+
 
 <p align="center">
 𝗛𝗲𝗿𝗼𝗸𝘂
@@ -40,14 +41,31 @@
 <a href="https://heroku.com/deploy?template=https://github.com/PikaBotz/Anya-pika-MD-v2/"><img align="center" src="https://www.herokucdn.com/deploy/button.svg" alt="Fork and deploy" /></a>
 </P>
 
+##
+<p align="center">
+𝗖𝗼𝗱𝗲𝘀𝗽𝗮𝗰𝗲
+
+<p align="center">
+<a href="https://github.com/codespaces/new"><img align="center" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Codespace.png" alt="Fork and deploy" /></a>
+</P>
+
+##
 <p align="center">
 𝗞𝗼𝘆𝗲𝗯
 
 <p align="center">
 <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/PikaBotz/Anya-pika-MD-v2&branch=main&name=anya"><img align="center" src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Fork and deploy" /></a>
 </P>
-  
 
+##
+<p align="center">
+𝗠𝗼𝗴𝗲𝗻𝗶𝘂𝘀
+
+<p align="center">
+<a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img align="center" src="https://studio.mogenius.com/assets/logos/logo-mogenius-logo-quer.svg" alt="Fork and deploy" /></a>
+</P>
+  
+##
 ## Install Manually 👇
 ### `Requirements`
 * [Node.js](https://nodejs.org/en/)
@@ -97,13 +115,17 @@ npm start
 npm i -g pm2 && pm2 start Anyaindex.js && pm2 save && pm2 logs
 ```
 ##
-### ℂℝ𝔼𝔻𝕀𝕋𝕊
+### `ℂℝ𝔼𝔻𝕀𝕋𝕊`
 * [Nexus](https://github.com/Nexusat12)
 * [Xeon](https://github.com/DGxeon)
 * [Jetus](https://github.com/jetus-hack)
 
 ##
-### 𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑷𝒊𝑲𝒂𝑪𝒉𝒖🥵🔥
+### `Repo Stats`
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Anya-pika-MD-v2&theme=vision-friendly-dark)](https://github.com/PikaBotz/Anya-pika-MD-v2)
+
+##
+### `𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑷𝒊𝑲𝒂𝑪𝒉𝒖🥵🔥`
 <p align="center">
 
 <img src="https://github.com/PikaBotz/My_Personal_Space/blob/main/Images/Developer_pics/Developerpic.jpg">   
