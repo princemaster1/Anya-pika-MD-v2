@@ -2,17 +2,17 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "𝖤𝗅e𝗇𝖺-🇰🇪" 
+global.botname = "Kaytoh_254" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝐏𝐑𝐈𝐍𝐂𝐄"  
-global.packname = "𝖤𝖫𝖨𝖭𝖠✯𝖡𝖮𝖳"  
+global.author = "Kaytoh_254"  
+global.packname = "Kaytoh_254✯𝖡𝖮𝖳"  
 global.myweb = "https://𝗅𝗂𝗇𝗄𝗍𝗋.𝖾𝖾/𝗉𝗋𝗂𝗇𝖼𝖾𝗆𝖺𝗌𝗍𝖾𝗋254" // You can put any link 
 global.waterMark = "×͜× 𝖯𝖱𝖨𝖭𝖢𝖤 ✘™ ✓" // Your own watermark 
-global.headerText = "𝖤𝖫𝖨𝖭𝖠 by 𝐏𝐑𝐈𝐍𝐂𝐄" // text for header of menu         
-global.DocumentTitle = "𝖯𝖱𝖨𝖭𝖢𝖤⚔️𝖬𝖠𝖲𝖳𝖤𝖱" 
+global.headerText = "𝖤𝖫𝖨𝖭𝖠 by Kaytoh_254" // text for header of menu         
+global.DocumentTitle = "Kaytoh_254" 
 
 
-global.ownername = "𝐏𝐑𝐈𝐍𝐂𝐄"   // Owner name //        
+global.ownername = "Kaytoh_254"   // Owner name //        
 global.ownernumber = ['254768371432'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 𝗉𝗋𝗂𝗇𝖼𝖾𝗆𝖺𝗌𝗍𝖾𝗋00" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
